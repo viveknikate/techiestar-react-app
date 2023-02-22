@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##Live project link
+## Live project link
 https://techiestar.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
